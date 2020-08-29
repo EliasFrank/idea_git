@@ -5,6 +5,7 @@ public class Hello {
         System.out.println("hello");
         System.out.println("master");
         System.out.println("hello hl");
+        System.out.println("hello hl");
     }
     public void addMethod(){}
 
