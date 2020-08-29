@@ -6,6 +6,7 @@ public class Hello {
         System.out.println("master");
         System.out.println("hello hl");
         System.out.println("hello hl");
+        System.out.println("test ssh");
     }
     public void addMethod(){}
 
